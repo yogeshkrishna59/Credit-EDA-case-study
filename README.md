@@ -1,5 +1,7 @@
 # Credit-EDA-case-study
 
+Dataset can be downloaded from the link : https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
+
 Problem Statement 
  
 
